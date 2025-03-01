@@ -4,7 +4,7 @@ This application is a form builder that receives the field names and default val
 By clicking the "submit" button, the information is saved in a text file in the project path.\
 This project is written in Python and its user interface is implemented by "tkinter".
 
-## Python Code
+## Code
 ```python
 from tkinter import Tk, Label, Entry, Button
 
@@ -58,7 +58,7 @@ submit_button.grid(row=row_number, column=1, pady=5, padx=5)
 window.mainloop()
 ```
 
-## Usage Guide
+## Sample
 ```python
 Please enter attribute name: First Name
 Please enter attribute value: Samira
